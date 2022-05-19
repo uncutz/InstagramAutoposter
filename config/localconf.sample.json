@@ -1,0 +1,10 @@
+{
+  "instagramApi": {
+    "url": "https://graph.facebook.com/v13.0",
+    "accessToken": ""
+  },
+  "pixabayApi": {
+    "url": "https://pixabay.com/api",
+    "accessToken": ""
+  }
+}
