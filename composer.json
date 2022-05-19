@@ -9,6 +9,10 @@
     "require": {
         "symfony/console": "^5.4",
         "ext-json": "*"
+    }
+    ,
+    "require-dev": {
+        "roave/security-advisories": "dev-latest"
     },
     "autoload": {
         "psr-4": {
